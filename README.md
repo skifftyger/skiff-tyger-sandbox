@@ -1,1 +1,1 @@
-# Manually created
+# Manual
