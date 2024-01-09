@@ -1,1 +1,1 @@
-# Manual
+# Angular sandbox
